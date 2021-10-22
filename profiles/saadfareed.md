@@ -1,5 +1,5 @@
-Name: Saad Fareed
+Name: Muhammad Saad Fareed
 
 Username: saadfareed
 
-Favorite Language: Javascript and Python !!!
+Favorite Language:Python !!!
